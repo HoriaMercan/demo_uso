@@ -1,1 +1,2 @@
-# bubble sort
+# Sorting Algorithm for Integer Arrays
+
